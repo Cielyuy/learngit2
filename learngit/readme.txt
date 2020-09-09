@@ -15,7 +15,7 @@ dfa
 6tochange  GPS2
 
 
-7to changge GPL
+7to changge G
 
 git tracks changes
 
