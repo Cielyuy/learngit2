@@ -10,7 +10,7 @@ dfa
 
 4 change the 
 
-5 to change
+5 to change BD3
 
 6tochange  GPS2
 
