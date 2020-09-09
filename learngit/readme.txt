@@ -32,7 +32,11 @@ git tracks changes
 6git 
 
 my stupid
+<<<<<<< HEAD
 Creating a new branch is quick & simple
 
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> featurel
 
 
