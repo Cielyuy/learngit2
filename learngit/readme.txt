@@ -32,6 +32,6 @@ git tracks changes
 6git 
 
 my stupid
-
+Creating a new branch is quick.
 
 
