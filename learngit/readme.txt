@@ -15,4 +15,4 @@ dfa
 6tochange
 
 
-7to changge
+7to changge GPL
