@@ -16,3 +16,5 @@ dfa
 
 
 7to changge GPL
+
+git tracks changes
